@@ -1,4 +1,4 @@
-# PushTest
+# Push Test With Android and firebase cloud messaging
 Push notifications using firebase Demo from documentation
 
 This is an example. It needs only the google-services.json from firebase on PushTest/app.
